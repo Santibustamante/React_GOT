@@ -1,0 +1,24 @@
+{
+  "character": "character",
+  "PERSONAJES": "characters",
+  "name": "name",
+  "house": "house",
+  "CASAS": "houses",
+  "parents": "parents",
+  "siblings": "siblings",
+  "title": "title",
+  "titles": "titles",
+  "alliances": "alliances",
+  "episodes": "episodes",
+  "age": "age",
+  "settlement": "settlement",
+  "region": "region",
+  "religions": "religions",
+  "foundation": "foundation",
+  "CRONOLOGIA": "chronology",
+  "search":"search",
+  "got": "Game of Thrones",
+  "back": "Back",
+  "HOME": "Home"
+  }
+  
